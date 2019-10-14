@@ -1,0 +1,11 @@
+id;name;guid;bank_number;agency_number;last_operation_duration;mean_operation_duration;mean_queue_duration;balance;opening_day;last_operation_date;active;account_type;attachment;attachment_content_type;description
+1;mobile Fish;c9927210-7d59-42ba-80fb-df302f294980;43194;2306;29122;52477;61185;39986;2019-10-14;2019-10-14T20:09:52;false;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+2;syndicate;f970d9a2-710f-4ff9-8640-13a37a197d02;90932;39106;25877;18223;66252;75536;2019-10-14;2019-10-14T11:04:51;true;SAVINGS;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+3;Industrial;dc7f6ee9-be51-4938-8f5d-6b48d95f4984;14092;29627;80219;16526;7455;1563;2019-10-13;2019-10-14T11:07:22;true;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+4;magenta monitor 1080p;91e5a1ed-d975-4115-8a5a-b9a4e8761fbd;76078;72172;56127;23598;77096;25606;2019-10-14;2019-10-14T20:18:50;true;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+5;Dynamic;7598be23-968c-433f-994b-2ee9c4a1d7c3;18657;41650;89255;88328;53934;32434;2019-10-14;2019-10-14T18:21:15;true;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+6;withdrawal;0d5d4028-8673-4b14-93f2-5388b651f4f3;25178;69630;49724;71227;30087;14808;2019-10-14;2019-10-13T21:20:20;false;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+7;paradigms Home;5ea3a287-7f83-49a1-8533-bc57afa68d1c;83530;15071;32078;50819;18651;69581;2019-10-14;2019-10-14T00:41:02;true;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+8;firewall;c35a12fb-668e-4d2a-9b13-e8eb43a2df88;52965;26082;24185;99625;9310;96541;2019-10-13;2019-10-14T07:53:08;true;LOAN;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+9;programming SCSI drive;ead1e2ce-a990-451f-af04-2487b7af32b0;23724;49389;32539;17882;74649;36646;2019-10-14;2019-10-14T03:25:28;true;CHECKING;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
+10;withdrawal Ergonomic;9ff67eea-6c58-4a9a-bd33-b7490ca02ff7;95392;27956;91486;88349;37015;74771;2019-10-14;2019-10-13T22:24:39;true;SAVINGS;../fake-data/blob/hipster.png;image/png;../fake-data/blob/hipster.txt
